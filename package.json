@@ -7,6 +7,9 @@
     "start": "next start -p $PORT",
     "build": "next build"
   },
+  "engines": {
+    "node": ">=0.12"
+  },
   "keywords": [],
   "author": "",
   "license": "ISC",
